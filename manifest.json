@@ -1,0 +1,8 @@
+{
+  "name": "Palettable",
+  "id": "1120870311322730983",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma", "figjam"]
+}
